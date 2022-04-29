@@ -1,4 +1,4 @@
-# Front-end-test Next.js (ReactJS)
+# Front-end-test | Next.js (ReactJS)
 
 In the XD file linked below, you can find the design of the two pages you need to implement using Next.js (ReactJS), 'Home' (XD pages 1 & 2) and 'Markets' (XD pages 3 & 4).
 You can download the assets directly from the XD file except for the image of the second section, that can be found in the root folder of the repository.
