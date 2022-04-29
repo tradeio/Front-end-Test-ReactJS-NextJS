@@ -1,7 +1,7 @@
 # Front-end-test
 
-In the XD file linked below, you can find the design of the two pages you need to implement, 'Home' (XD pages 1 & 2) and 'Markets' (XD pages 3 & 4).
-You can download the assets directly from the XD file except for the image on the second section, that can be found in the root folder of this repository.
+In the XD file linked below, you can find the design of the two pages you need to implement using Next.js (ReactJS), 'Home' (XD pages 1 & 2) and 'Markets' (XD pages 3 & 4).
+You can download the assets directly from the XD file except for the image of the second section, that can be found in the root folder of the repository.
 
 XD file: https://xd.adobe.com/view/35937006-6edb-4c74-a655-1d2b064d3ad4-60c0/
 
